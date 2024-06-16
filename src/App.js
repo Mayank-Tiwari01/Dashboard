@@ -1,4 +1,3 @@
-// src/App.js
 import React from 'react';
 import ACVRangeChart from './Components/ACVRangeChart';
 import CustomerTypeChart from './Components/CustomerTypeChart';
