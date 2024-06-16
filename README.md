@@ -37,11 +37,8 @@ This project is a comprehensive data visualization dashboard that provides insig
   - `accountIndustry.json`
 
 - **src/utils:** Contains utility functions for data preparation and processing.
-  - `prepareACVRangeData.js`
   - `prepareCustomerTypeData.js`
-  - `prepareTeamData.js`
-  - `prepareAccountIndustryData.js`
-
+    
 - **Code Explanation:** A folder explaining each part of the code in detail to help understand the logic and implementation.
 
 ## Getting Started
