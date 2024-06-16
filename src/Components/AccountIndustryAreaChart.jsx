@@ -18,6 +18,8 @@ const AccountIndustryAreaChart = () => {
       data={finalData}
       margin={{ top: 10, right: 30, left: 0, bottom: 0 }}
     >
+      {/* The <defs> element is short for "definitions", and contains definition of special elements (such as patterns). The <pattern> element has a required id attribute which identifies the pattern. The graphic/image then points to the pattern to use. */}
+
       <defs>
         {industries.map((industry, index) => (
           <linearGradient id={`color${industry}`} x1="0" y1="0" x2="0" y2="1" key={industry}>
