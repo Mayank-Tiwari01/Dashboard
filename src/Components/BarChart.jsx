@@ -1,3 +1,8 @@
+/*
+ * For a detailed and comprehensive explanation of the code,
+ * please refer to './Code_Explanation_And_Breakdown/Component_Exp' followed by the component name.
+ */
+
 import React, { useEffect, useRef } from 'react';
 import * as d3 from 'd3';
 

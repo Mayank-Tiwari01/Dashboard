@@ -1,3 +1,7 @@
+/*
+ * For a detailed and comprehensive explanation of the code,
+ * please refer to './Code_Explanation_And_Breakdown/Component_Exp' followed by the component name.
+ */
 import React from 'react';
 import { AreaChart, Area, XAxis, YAxis, CartesianGrid, Tooltip, Legend } from 'recharts';
 import accountIndustryData from '../data/accountIndustry.json';

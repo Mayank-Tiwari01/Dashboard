@@ -1,3 +1,8 @@
+/*
+ * For a detailed and comprehensive explanation of the code,
+ * please refer to './Code_Explanation_And_Breakdown/ followed by the file name.
+ */
+
 export const prepareAccountIndustryData = (data) => {
   const groupedData = {};
   const industries = new Set();

@@ -1,3 +1,8 @@
+/*
+ * For a detailed and comprehensive explanation of the code,
+ * please refer to './Code_Explanation_And_Breakdown/Component_Exp' followed by the component name.
+ */
+
 import React from 'react';
 import { PieChart, Pie, Tooltip, Legend, Cell } from 'recharts';
 import customerTypeData from '../data/customerType.json';
